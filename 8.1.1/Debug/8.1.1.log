@@ -1,0 +1,4 @@
+﻿  8.1.1.cpp
+C:\Users\Користувач\source\repos\8.1.1\8.1.1\8.1.1.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Користувач\source\repos\8.1.1\8.1.1\8.1.1.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+  8.1.1.vcxproj -> C:\Users\Користувач\source\repos\8.1.1\Debug\8.1.1.exe
